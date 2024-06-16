@@ -1,4 +1,5 @@
 package commands;
+
 public class CopyCommand extends Command {
 
     public CopyCommand(Editor editor) {
